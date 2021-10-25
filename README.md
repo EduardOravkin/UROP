@@ -1,4 +1,4 @@
-# UROP_Homeomorphisms_of_the_circle
+# UROP - Homeomorphisms of the circle
 
 This repo contains the outcome of the Undergraduate Research Opportunity Programme (UROP) of Imperial College London. I was part of this programme in the summer of 2018. 
 
